@@ -1,6 +1,6 @@
-# 天气 API MCP 服务器
-
 [English](./README.md) | [中文](./README.zh-CN.md)
+
+# 天气 API MCP 服务器
 
 基于模型上下文协议（Model Context Protocol，MCP）的天气信息服务器实现，使用和风天气（QWeather）API 提供当前天气数据和预报。
 

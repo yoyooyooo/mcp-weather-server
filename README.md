@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh.md)
+
 # Weather API MCP Server
 
 A Model Context Protocol (MCP) server implementation for weather information, providing current weather data and forecasts using the 和风天气 (QWeather) API.
